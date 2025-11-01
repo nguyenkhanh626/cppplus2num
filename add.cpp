@@ -7,5 +7,5 @@ int main()
 
     int a,b;
     cin>>a>>b;
-    cout<<"hehe "<<(a+b)*2;
+    cout<<"hehe123 "<<(a+b)*2;
 }
